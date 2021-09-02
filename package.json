@@ -1,5 +1,5 @@
 {
-  "name": "maki-eslint-config",
+  "name": "eslint-config-maki",
   "version": "1.0.0",
   "description": "Eslint config for MakiSwap",
   "main": "lib/index.js",

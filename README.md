@@ -1,4 +1,4 @@
-# maki-eslint-config
+# eslint-config-maki
 
 Maki Eslint config with:
 
@@ -9,7 +9,7 @@ Maki Eslint config with:
 ## Usage
 
 ```
-yarn add maki-eslint-config
+npx install-peerdeps --dev eslint-config-maki
 ```
 
-Add `"extends": "maki-eslint-config"` to your eslint config file.
+Add `"extends": "eslint-config-maki"` to your eslint config file.
